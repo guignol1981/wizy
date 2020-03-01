@@ -1,0 +1,7 @@
+{
+  "name": "wizy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
